@@ -1,0 +1,342 @@
+@media (min-width: 1200px) { 
+    .carrito-contenedor{
+        max-width: 100%;
+        padding-inline: 1.5rem;
+        margin-top: 97px;
+        margin-left: 607px;
+     }
+     .btn-volver{
+        display: inline-block;
+        line-height: 1.5;
+        color: #212529;
+        text-align: center;
+        text-decoration: none;
+        vertical-align: middle;
+        cursor: pointer;
+        user-select: none;
+        padding: .375rem .75rem;
+        font-size: 1rem;
+        border-radius: .25rem;
+        color: #171717;
+        background-color: #709ddf;
+        border-color: #0d6efd;
+        transition: color .15s ease-in-out, background-color .15s ease-in-out, border-color .15s ease-in-out, box-shadow .15s ease-in-out;
+        margin-top: 50px;
+      margin-left: -74px;
+    }
+ }
+ @media (min-width: 1400px) { 
+    .carrito-contenedor{
+        max-width: 100%;
+        padding-inline: 1.5rem;
+        margin-top: 97px;
+        margin-left: 800px;
+     }
+     .btn-volver{
+        display: inline-block;
+        line-height: 1.5;
+        color: #212529;
+        text-align: center;
+        text-decoration: none;
+        vertical-align: middle;
+        cursor: pointer;
+        user-select: none;
+        padding: .375rem .75rem;
+        font-size: 1rem;
+        border-radius: .25rem;
+        color: #171717;
+        background-color: #709ddf;
+        border-color: #0d6efd;
+        transition: color .15s ease-in-out, background-color .15s ease-in-out, border-color .15s ease-in-out, box-shadow .15s ease-in-out;
+        margin-top: 50px;
+      margin-left: -259px;
+    }
+ }
+
+ /* .carrito-contenedor{
+    max-width: 100%;
+    padding-inline: 1.5rem;
+    margin-top: 97px;
+    margin-left: 800px;
+ } */
+
+
+.carrito-color {
+    color: black;
+}
+
+.carrito-p {
+    margin-top:-25px;
+    font-size: 1rem;
+    display: flex;
+    margin-left: 2.1rem;
+    color: black;
+}
+
+
+.formulario{
+    display: flex;
+    flex-direction: column;
+    gap: .5rem;
+    align-items: flex-start;
+    margin-left: -306px;
+
+}
+
+.formulario input{
+    padding: .5rem;
+    width: 18rem;
+    border-radius: .5rem;
+    border: 2px solid black;
+}
+
+.formulario input:focus {
+    outline: 0;
+    border: 2px solid var(--clr-main);
+    outline: 2px solid var(--clr-main);
+}
+.detalle{
+    margin-top: 37px;
+    margin-left: -306px
+}
+.vaciar{
+    display: inline-block;
+    line-height: 1.5;
+    color: #212529;
+    text-align: center;
+    text-decoration: none;
+    vertical-align: middle;
+    cursor: pointer;
+    user-select: none;
+    padding: .375rem .75rem;
+    font-size: 1rem;
+    border-radius: .25rem;
+    color: #171717;
+    background-color: #709ddf;
+    border-color: #0d6efd;
+    transition: color .15s ease-in-out, background-color .15s ease-in-out, border-color .15s ease-in-out, box-shadow .15s ease-in-out;
+    margin-top: 11px;
+    margin-left: 180px;
+}
+.btn-finalizarCompra{
+    display: inline-block;
+    line-height: 1.5;
+    color: #212529;
+    text-align: center;
+    text-decoration: none;
+    vertical-align: middle;
+    cursor: pointer;
+    user-select: none;
+    padding: .375rem .75rem;
+    font-size: 1rem;
+    border-radius: .25rem;
+    color: #171717;
+    background-color: #709ddf;
+    border-color: #0d6efd;
+    transition: color .15s ease-in-out, background-color .15s ease-in-out, border-color .15s ease-in-out, box-shadow .15s ease-in-out;
+    margin-top: -15px;
+    margin-left: 45px;
+}
+.btn-modificar{
+    display: inline-block;
+    line-height: 1.5;
+    color: #212529;
+    text-align: center;
+    text-decoration: none;
+    vertical-align: middle;
+    cursor: pointer;
+    user-select: none;
+    padding: .375rem .75rem;
+    font-size: 1rem;
+    border-radius: .25rem;
+    color: #171717;
+    background-color: #709ddf;
+    border-color: #0d6efd;
+    transition: color .15s ease-in-out, background-color .15s ease-in-out, border-color .15s ease-in-out, box-shadow .15s ease-in-out;
+    margin-top: -15px;
+  margin-left: 106px;
+}
+.btn-limpiar{
+    display: inline-block;
+    line-height: 1.5;
+    color: #212529;
+    text-align: center;
+    text-decoration: none;
+    vertical-align: middle;
+    cursor: pointer;
+    user-select: none;
+    padding: .375rem .75rem;
+    font-size: 1rem;
+    border-radius: .25rem;
+    color: #171717;    
+    border-color: #0d6efd;
+    transition: color .15s ease-in-out, background-color .15s ease-in-out, border-color .15s ease-in-out, box-shadow .15s ease-in-out;
+    margin-top: -15px;
+    margin-left: -48px;
+}
+.title{
+    text-align:center;
+    color: black;
+    font-family: inherit;
+    font-size: 2.1rem;
+    
+}
+.carrito-titulo{
+    color: black;
+    font-family: math;
+    font-size: 3.3rem;
+    margin-left: -80px
+}
+.titulo-PrecioTotal{
+    color: black;
+    font-family: math;
+    margin-left: -183px    ;
+    margin-top: 20px;
+}
+.title-CarritoDetalle{
+    text-align:center;
+    color: black;
+    font-family: inherit;
+    font-size: 1.6rem;
+    margin-top: -18px;
+}
+.descripcionDetalle{
+    color: black;
+    font-family: cursive;
+    font-size: 1rem;
+    margin-top: -14px;
+    margin-left: 8px;
+}
+.precioDetalle{
+    color: black;
+    font-family: cursive;
+    font-size: 1rem;
+    margin-top: -14px;
+    margin-left: 8px;
+}
+.cantidadDetalle{
+    color: black;
+    font-family: cursive;
+    font-size: 1rem;
+    margin-top: -14px;
+    margin-left: 8px;
+}
+.card-detalle{
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    background-color: #fff;
+    background-clip: border-box;
+    border: 2px solid rgba(0,0,0,.125);
+    border-radius: 1rem;
+    column-gap: -4px;
+    width: 400px;
+    height: 200px;
+    margin-left: -197px;
+    box-shadow: 3px 2px 5px #0404045c;
+    padding-top: 20px;
+}
+.imagen {
+    width: 25%;
+    height: 98px;
+    padding-left: 38px;
+    margin-left: 185px;
+    margin-top: -62px;
+}
+/* Orden */
+.contenedor-finalizarCompra{
+   
+    display: inline-block;
+    line-height: 1.5;
+    color: #212529;
+    text-align: center;
+    text-decoration: none;
+    vertical-align: middle;
+    cursor: pointer;
+    -webkit-user-select: none;
+    user-select: none;
+    padding: 0.375rem 0.75rem;
+    font-size: 1rem;
+    border-radius: 0.25rem;
+    color: #171717;
+    background-color: #709ddf;
+    border-color: #0d6efd;
+    transition: color .15s ease-in-out, background-color .15s ease-in-out, border-color .15s ease-in-out, box-shadow .15s ease-in-out;
+    margin-top: 16px;
+    margin-left: -303px;
+    height: 149px;
+    padding-left: 23px;
+    
+}
+.formulario-finalizarCompra{
+    margin-top: 16px;
+   
+    height: 100px;
+    padding-left: 23px;
+}
+.botones{
+    margin-top: 16px;
+    margin-left: -103px;
+    height: 100px;
+    padding-left: 23px;
+}
+.container-finCompraId{
+    display: inline-block;
+    line-height: 1.5;
+    color: #212529;
+    text-align: center;
+    text-decoration: none;
+    vertical-align: middle;
+    cursor: pointer;
+    -webkit-user-select: none;
+    user-select: none;
+    padding: 0.375rem 0.75rem;
+    font-size: 1rem;
+    border-radius: 0.25rem;
+    color: #171717;
+    background-color: #709ddf;
+    border-color: #0d6efd;
+    transition: color .15s ease-in-out, background-color .15s ease-in-out, border-color .15s ease-in-out, box-shadow .15s ease-in-out;
+    margin-top: 17px;
+  margin-left: -367px;
+  height: 178px;
+  width: 673px;
+  margin-bottom: 18px;
+}
+.title-Gracias{
+    text-align: center;
+  color: black;
+  font-family: initial;
+  font-size: 3rem;
+  text-decoration: none;
+  margin-left: -18px;
+}
+.nroPedido{
+    text-align: center;
+    color: black;
+    font-family: initial;
+    font-size: 1.7rem;
+    margin-left: -6px;
+    text-decoration: none;
+}
+/* .btn-volver{
+    display: inline-block;
+    line-height: 1.5;
+    color: #212529;
+    text-align: center;
+    text-decoration: none;
+    vertical-align: middle;
+    cursor: pointer;
+    user-select: none;
+    padding: .375rem .75rem;
+    font-size: 1rem;
+    border-radius: .25rem;
+    color: #171717;
+    background-color: #709ddf;
+    border-color: #0d6efd;
+    transition: color .15s ease-in-out, background-color .15s ease-in-out, border-color .15s ease-in-out, box-shadow .15s ease-in-out;
+    margin-top: 50px;
+  margin-left: -259px;
+} */

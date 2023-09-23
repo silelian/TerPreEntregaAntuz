@@ -1,0 +1,89 @@
+[
+    {
+        "id":1,
+        "name": "Cartera Negra",
+        "price": 10.000,  
+            
+        "image":{
+            "url":"../../../src/assets/img/CarteraRoja.jpg",
+                "width": 100,
+                "heigth":100
+            
+        },
+        "category": "Carteras",
+        "description" :"Cartera Casual."
+    },
+    {
+        "id":2,
+        "name": "Portafolios Negro",
+        "price": 10.000,
+        "image":"../src/assets/img/portafolioNegro.jpg",
+        "category": "Portafolios",
+        "description" :"Cartera Casual."
+    },
+    {
+        "id":3,
+        "name": "Mochila Negra",
+        "price": 10.000,
+        "image":"../src/assets/img/MochilaNegra.jpg",
+        "category": "Mochilas",
+        "description" :"Cartera Casual."
+    },
+    {
+        "id":4,
+        "name": "Mochilas Roja",
+        "price": 20.000,
+        "image":"../src/assets/img/mochilaRoja.jpg",
+        "category": "Mochilas",
+        "description" :"Cartera Casual."
+    },
+    {
+        "id":5,
+        "name": "Cartera Blanca",
+        "price": 30.000,
+        "image":"../src/assets/img/CarteraBlanza.jpg",
+        "category": "Carteras",
+        "description" :"Cartera Casual."
+    },
+    {
+        "id":6,
+        "name": "Portafolios Azul",
+        "price": 10.000,
+        "image":"../src/assets/img/portafolioAzul.jpg",
+        "category": "Portafolios",
+        "description" :"Cartera Casual."
+    },
+    {
+        "id":7,
+        "name": "Cartera Beige",
+        "price": 10.000,
+        "image" :"../src/assets/img/CarteraBeige.jpg",
+        "category": "Carteras",
+        "description" :"Cartera Casual."
+    },
+    {
+        "id":8,
+        "name": "Mochilas Gris",
+        "price": 50.000,
+        "image":"../src/assets/img/Mochilagris.jpg",
+        "category": "Mochilas",
+        "description" :"Cartera Casual."
+    },
+    {
+        "id":9,
+        "name": "Billetera",
+        "price": 10.000,
+        "image":"../src/assets/img/Billetera.jpg",
+        "category": "Portafolios",
+        "description" :"Cartera Casual."
+    },
+    {
+        "id":10,
+        "name": "Cartera Roja",
+        "price": 10.000,
+        "image":"../src/assets/img/CarteraRoja.jpg",
+        "category": "Carteras",
+        "description" :"Cartera Casual."
+    }
+    
+]

@@ -1,0 +1,7 @@
+.contenedor {
+    display: flex;
+    color: black;
+    margin-top: 3rem;
+    margin-left: 4rem;
+    gap: 2rem;
+}

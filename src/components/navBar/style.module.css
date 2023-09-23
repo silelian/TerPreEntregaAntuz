@@ -1,0 +1,45 @@
+.navBarEstilo {
+    /* background: #EFEFEF!important; */
+    background-image: url(../../assets/img/banner.png);
+    background-position: 20% 30%;
+    background-size: cover;
+    height: 93px;
+    padding-left: 37px;
+    color: rgba(0, 0, 0, 0.55);
+    font-size: 1.3rem;
+}
+
+.nav-item {
+    font-size: 1.6rem;
+    font-family: math;
+    display: flex;
+    margin-left: 41px;
+    margin-top: 6px;
+    color:black;
+}
+
+.navIcono {
+    width: 99px;
+    height: 78px;
+    border: 1px solid #d0d0d0;
+    border-radius: 40px;
+}
+
+.navh1 {
+    color: black;
+    font-size: 1.8rem;
+    font-family: math;
+    display: flex;
+    margin-left: -59px;
+    margin-top: 2px;
+}
+
+.navPrincipal {
+    display: flex;
+    gap: 12px;
+}
+.carrito {
+    /* margin-left: 950px; */
+    margin-left: 450px;
+    margin-top: 10px;
+}

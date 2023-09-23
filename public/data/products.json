@@ -1,0 +1,83 @@
+[
+    {
+        "id":1,
+        "name": "Cartera Negra",
+        "price": 10.000,              
+        "image":"/img/CarteraNegra.jpg",    
+        "category": "Carteras",
+        "description" :"Cartera Casual."
+    },
+    {
+        "id":2,
+        "name": "Portafolios Negro",
+        "price": 10.000,
+        "image":"/img/portafolioNegro.jpg",
+        "category": "Portafolios",
+        "description" :"Portafolios Negro."
+    },
+    {
+        "id":3,
+        "name": "Mochila Negra",
+        "price": 10.000,
+        "image":"/img/MochilaNegra.jpg",
+        "category": "Mochilas",
+        "description" :"Mochila Negra."
+    },
+    {
+        "id":4,
+        "name": "Mochilas Roja",
+        "price": 20.000,
+        "image":"/img/mochilaRoja.jpg",
+        "category": "Mochilas",
+        "description" :"Mochilas Roja."
+    },
+    {
+        "id":5,
+        "name": "Cartera Blanca",
+        "price": 30.000,
+        "image":"/img/CarteraBlanca.jpg",
+        "category": "Carteras",
+        "description" :"Cartera Blanca."
+    },
+    {
+        "id":6,
+        "name": "Portafolios Azul",
+        "price": 10.000,
+        "image":"/img/portafolioAzul.jpg",
+        "category": "Portafolios",
+        "description" :"Portafolios Azul."
+    },
+    {
+        "id":7,
+        "name": "Cartera Beige",
+        "price": 10.000,
+        "image" :"/img/CarteraBeige.jpg",
+        "category": "Carteras",
+        "description" :"Cartera Beige."
+    },
+    {
+        "id":8,
+        "name": "Mochilas Gris",
+        "price": 50.000,
+        "image":"/img/Mochilagris.jpg",
+        "category": "Mochilas",
+        "description" :"Mochilas Gris."
+    },
+    {
+        "id":9,
+        "name": "Billeteras",
+        "price": 10.000,
+        "image":"/img/Billetera.jpg",
+        "category": "Billeteras",
+        "description" :"Billeteras."
+    },
+    {
+        "id":10,
+        "name": "Cartera Roja",
+        "price": 10.000,
+        "image":"/img/CarteraRoja.jpg",
+        "category": "Carteras",
+        "description" :"Cartera Roja."
+    }
+    
+]
