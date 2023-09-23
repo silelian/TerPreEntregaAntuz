@@ -1,70 +1,38 @@
-# Getting Started with Create React App
+# Tienda de Marroquinería
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Bienvenido a nuestra tienda de marroquinería, donde ofrecemos una amplia gama de productos de cuero, que incluyen carteras, portafolios, cinturones y más. Este repositorio contiene información sobre nuestros productos y cómo puedes acceder a ellos.
 
-## Available Scripts
+## Acerca de Nosotros
 
-In the project directory, you can run:
+Somos una empresa dedicada a la creación de productos de alta calidad utilizando los mejores materiales de cuero. Nuestra misión es proporcionar productos duraderos y elegantes que complementen tu estilo de vida.
 
-### `npm start`
+## Productos Destacados
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### Carteras
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Nuestras carteras son conocidas por su diseño elegante y funcionalidad. Están disponibles en una variedad de estilos y tamaños para adaptarse a tus necesidades.
 
-### `npm test`
+### Portafolios
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Nuestros portafolios están diseñados para profesionales que desean llevar sus documentos de manera organizada y con estilo. Vienen con múltiples compartimentos y un diseño sofisticado.
 
-### `npm run build`
+### Cinturones
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Ofrecemos una selección de cinturones de cuero de alta calidad en diferentes colores y estilos para complementar tu atuendo.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Cómo Comprar
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+1. **Explora nuestros productos**: Navega por las diferentes categorías de productos en nuestra [página web](http://localhost:3000/) para ver nuestra colección completa.
 
-### `npm run eject`
+2. **Hacer un pedido**: Para realizar un pedido, simplemente selecciona los productos que deseas comprar y agrégalos a tu carrito de compras en nuestro sitio web. En el boton "Agregar Carrito".
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+3. **Ir al Carrito**: Apareceran los productos seleccionados para tu compra. Completa tus datos personales y seleccipona el boton "Comprar" para finalizar tu compra en nuestro sitio web.
+ 
+4. **El sitio te devolvera un mensaje con tu número de pedido. Selecciona el boton "Finalizar Compra" para que todo quede debidamente registrado en nuestros sistemas.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+¡Gracias por visitar nuestra tienda de marroquinería!
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
