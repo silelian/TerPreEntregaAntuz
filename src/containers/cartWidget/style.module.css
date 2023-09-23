@@ -184,8 +184,8 @@
 .carrito-titulo{
     color: black;
     font-family: math;
-    font-size: 3.3rem;
-    margin-left: -80px
+    font-size: 3rem;
+  margin-left: -180px;
 }
 .titulo-PrecioTotal{
     color: black;
@@ -301,7 +301,7 @@
     transition: color .15s ease-in-out, background-color .15s ease-in-out, border-color .15s ease-in-out, box-shadow .15s ease-in-out;
     margin-top: 17px;
   margin-left: -367px;
-  height: 178px;
+  height: 100px;
   width: 673px;
   margin-bottom: 18px;
 }
@@ -311,7 +311,7 @@
   font-family: initial;
   font-size: 3rem;
   text-decoration: none;
-  margin-left: -18px;
+  margin-left: -624px;
 }
 .nroPedido{
     text-align: center;

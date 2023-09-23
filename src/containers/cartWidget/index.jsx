@@ -3,9 +3,7 @@ import { BsCart3 } from "react-icons/bs";
 import style from "./style.module.css";
 import { Link } from "react-router-dom";
 import { useCartContext } from "../../context/CarContext";
-//  import Swal from "sweetalert2";
-// import { useState } from "react";
-// import { useEffect } from 'react';
+
 
 const CartWidget = () => {
     const { cantidadEnCarrito} = useCartContext();

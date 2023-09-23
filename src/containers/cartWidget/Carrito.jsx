@@ -29,7 +29,7 @@ const { carrito, precioTotal, clearCart } = useCartContext();
 
 return (
 <div className={style["carrito-contenedor"]}>
-    <h1 className={style["carrito-titulo"]}>Carrito</h1>
+    <h1 className={style["carrito-titulo"]}>Marroquineria-Carrito</h1>
 
     {
         carrito.map((prod) => (
@@ -55,7 +55,7 @@ return (
         </> 
         :    
         <> 
-        
+        <p className={style["title-Gracias"]}>¡Muchas gracias por tu compra!</p>
        <Link to= "/" className={style["btn-volver"]} >Volver al Inicio</Link></> 
         
     }

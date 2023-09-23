@@ -74,7 +74,7 @@ const guardarDatos = async(e)=> {
     if (pedidoId) {
         return (
             <div className={style["container-finCompraId"]}>
-                <p className={style["title-Gracias"]}>¡Muchas gracias por tu compra!</p>
+                {/* <p className={style["title-Gracias"]}>¡Muchas gracias por tu compra!</p> */}
                 <p className={style["nroPedido"]}>Tu número de pedido es: {pedidoId}</p>
                 <button className={style["btn-limpiar"]} onClick={handleVaciar}>Finalizar Compra.</button>
             </div>
