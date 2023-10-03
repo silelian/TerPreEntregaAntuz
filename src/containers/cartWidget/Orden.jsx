@@ -90,7 +90,6 @@ const guardarDatos = async(e)=> {
     //     updateDoc(orderToUpdate, { total: 99 }) // Segundo parametro: Los campos que quiero updatear
     // }
 
-
     return (
         <div className={style["contenedor-finalizarCompra"]}>
             <h1 className="main-title">Finalizar compra</h1>
@@ -108,6 +107,5 @@ const guardarDatos = async(e)=> {
         </div>
     )
 }
-
 export default Orden
 

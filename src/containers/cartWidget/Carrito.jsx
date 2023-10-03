@@ -4,28 +4,9 @@ import { useCartContext } from '../../context/CarContext';
 // import Order from "./Order"
 import style from "./style.module.css";
 import Orden from './Orden';
-// import Swal from "sweetalert2";
-// import { useEffect } from 'react';
-import ItemListConatainer from "../itemListContainer"
 export default function Carrito() {
 
-//      const {carrito,precioTotal,clearCart} = useCartContext();  
-// console.log('entra')
-//     const Vaciar = () => {
-//        clearCart();
-//     }
-//  const error = () => {
-//     Swal.fire({
-//         title: `No existen productos en el carrito.`,
-//         icon: "error",
-//         confirmButtonText : "Aceptar"
-//      })
-//  }   
 const { carrito, precioTotal, clearCart } = useCartContext();
-
-// const handleVaciar = () => {
-//     clearCart();
-// }
 
 return (
 <div className={style["carrito-contenedor"]}>
