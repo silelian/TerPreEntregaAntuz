@@ -48,7 +48,28 @@ const guardarDatos = async(e)=> {
 }
 
 
+// **********************************************
 
+    //*******************************CREAR ORDEN***************/
+
+    // const pedidosRef = collection(db, "orders");
+    // const crearCompra = () => {
+    //     const pedido = {
+    //         cliente :{ ...user}, 
+    //         // cliente: {name: "silvia",email:"syl@gmail.com",telefono:"12345678"},
+    //         productos: carrito,
+    //         total: precioTotal()
+    //     }
+    //     console.log(pedido);
+
+    //     addDoc(pedidosRef, pedido)
+    //         .then((doc) => {
+    //             setPedidoId(doc.id);
+    //             // console.log('pedidoId');
+    //             //console.log(doc.id);
+    //             // clearCart();
+    //         })
+    // }
 
     if (pedidoId) {
         return (
